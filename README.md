@@ -12,6 +12,7 @@ This repository contains practice workflows and examples for learning GitHub Act
 1. Fork or clone this repository.
 2. Explore the workflow files.
 3. Modify or create new workflows to experiment.
+4. Testing
 
 ## Resources
 
